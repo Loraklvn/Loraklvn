@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kelvin Lora
-- 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning Recat TS, node js and Graphql.
-- 💞️ I’m looking to collaborate on web projects, so guys, if you need any hel I'm here to collaborate.
-- 📫 You can reach me at kelvinlora5@gmail.com.
+
+- I'm a highly skilled Front-End Developer with over 5 years of experience, specializing in React.js, JavaScript, TypeScript, and Next.js. Proven ability to deliver exceptional user experiences, develop scalable web applications, and maintain code quality. Adept at collaborating with cross-functional teams and staying updated with industry trends. Eager to leverage expertise to drive business success.
 
 <!---
 Loraklvn/Loraklvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
